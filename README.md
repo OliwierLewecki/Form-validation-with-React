@@ -1,1 +1,1 @@
-Simple for validation using React.
+Simple form validation using React.
